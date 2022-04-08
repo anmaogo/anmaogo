@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Mauricio Gómez</h1>
-<h3 align="center">I am an electronic engineer, currently pursuing a master's degree in internet of things engineering at PUJ, Colombia. Passionate about programming. Current crew member of Mision tic 2022.</h3>
+<h3 align="center">I am an electronic engineer, currently pursuing a master's degree in internet of things engineering at PUJ, Colombia. Passionate about programming. Current crew member of Mision tic 2022 🚀.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
